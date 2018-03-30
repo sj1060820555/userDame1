@@ -14,6 +14,7 @@
 		657F19F8206DE62E004A2EC7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 657F19F7206DE62E004A2EC7 /* Assets.xcassets */; };
 		657F19FB206DE62E004A2EC7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 657F19F9206DE62E004A2EC7 /* LaunchScreen.storyboard */; };
 		657F19FE206DE62E004A2EC7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 657F19FD206DE62E004A2EC7 /* main.m */; };
+		657F1A06206DE835004A2EC7 /* vcone.m in Sources */ = {isa = PBXBuildFile; fileRef = 657F1A05206DE835004A2EC7 /* vcone.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,8 @@
 		657F19FA206DE62E004A2EC7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		657F19FC206DE62E004A2EC7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		657F19FD206DE62E004A2EC7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		657F1A04206DE835004A2EC7 /* vcone.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = vcone.h; sourceTree = "<group>"; };
+		657F1A05206DE835004A2EC7 /* vcone.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = vcone.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +67,8 @@
 				657F19EC206DE62E004A2EC7 /* AppDelegate.m */,
 				657F19EE206DE62E004A2EC7 /* ViewController.h */,
 				657F19EF206DE62E004A2EC7 /* ViewController.m */,
+				657F1A04206DE835004A2EC7 /* vcone.h */,
+				657F1A05206DE835004A2EC7 /* vcone.m */,
 				657F19F1206DE62E004A2EC7 /* Main.storyboard */,
 				657F19F7206DE62E004A2EC7 /* Assets.xcassets */,
 				657F19F9206DE62E004A2EC7 /* LaunchScreen.storyboard */,
@@ -149,6 +154,7 @@
 				657F19ED206DE62E004A2EC7 /* AppDelegate.m in Sources */,
 				657F19FE206DE62E004A2EC7 /* main.m in Sources */,
 				657F19F6206DE62E004A2EC7 /* userDame1.xcdatamodeld in Sources */,
+				657F1A06206DE835004A2EC7 /* vcone.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
